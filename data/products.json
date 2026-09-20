@@ -1,0 +1,74 @@
+[
+  {
+    "id": "p1",
+    "name": "Classic Leather Backpack",
+    "price": 59.99,
+    "category": "Bags",
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=600&q=80",
+    "description": "A durable, timeless leather backpack with padded straps and a spacious main compartment. Perfect for daily commutes or weekend trips.",
+    "stock": 24
+  },
+  {
+    "id": "p2",
+    "name": "Wireless Noise-Cancelling Headphones",
+    "price": 129.99,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&q=80",
+    "description": "Immersive sound with active noise cancellation, 30-hour battery life, and a comfortable over-ear fit.",
+    "stock": 15
+  },
+  {
+    "id": "p3",
+    "name": "Minimalist Analog Watch",
+    "price": 79.5,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?w=600&q=80",
+    "description": "A clean, minimalist watch face with a genuine leather strap and scratch-resistant glass.",
+    "stock": 40
+  },
+  {
+    "id": "p4",
+    "name": "Ceramic Pour-Over Coffee Set",
+    "price": 34,
+    "category": "Home",
+    "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=600&q=80",
+    "description": "Hand-glazed ceramic dripper and mug set for the perfect single-cup pour-over brew.",
+    "stock": 60
+  },
+  {
+    "id": "p5",
+    "name": "Running Sneakers",
+    "price": 89.99,
+    "category": "Footwear",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600&q=80",
+    "description": "Lightweight, breathable running shoes with responsive cushioning for long-distance comfort.",
+    "stock": 32
+  },
+  {
+    "id": "p6",
+    "name": "Portable Bluetooth Speaker",
+    "price": 45,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=600&q=80",
+    "description": "Compact, waterproof speaker with rich bass and 12 hours of playtime — great for outdoor adventures.",
+    "stock": 50
+  },
+  {
+    "id": "p7",
+    "name": "Wool Blend Throw Blanket",
+    "price": 42,
+    "category": "Home",
+    "image": "https://images.unsplash.com/photo-1580301762395-83f8fd7e2d43?w=600&q=80",
+    "description": "Soft, warm wool-blend throw, perfect for cozy evenings on the couch.",
+    "stock": 27
+  },
+  {
+    "id": "p8",
+    "name": "Stainless Steel Water Bottle",
+    "price": 24.99,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=600&q=80",
+    "description": "Double-wall insulated bottle that keeps drinks cold for 24 hours or hot for 12.",
+    "stock": 75
+  }
+]
