@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Login — CodeAlpha Store</title>
+<link rel="stylesheet" href="/css/style.css" />
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-inner">
+    <a class="brand" href="/">Code<span>Alpha</span> Store</a>
+    <div class="search-box"></div>
+    <nav class="main-nav">
+      <a href="/cart.html" class="cart-link">Cart <span id="cart-count" class="cart-badge" style="display:none">0</span></a>
+      <span id="auth-area"></span>
+    </nav>
+  </div>
+</header>
+
+<main class="container">
+  <div class="form-card">
+    <h1>Log in</h1>
+    <div id="flash"></div>
+    <form id="login-form">
+      <div class="field">
+        <label for="email">Email</label>
+        <input type="email" id="email" required />
+      </div>
+      <div class="field">
+        <label for="password">Password</label>
+        <input type="password" id="password" required />
+      </div>
+      <button class="btn btn-primary btn-block" type="submit">Log in</button>
+    </form>
+    <div class="switch-link">Don't have an account? <a href="/register.html">Register</a></div>
+  </div>
+</main>
+
+<script src="/js/api.js"></script>
+<script src="/js/login.js"></script>
+</body>
+</html>
